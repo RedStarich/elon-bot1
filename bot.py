@@ -1,5 +1,5 @@
 import telebot
-bot = telebot.TeleBot("6622570779:AAFB6LQY8-jOzfDpNAWMIcwL7PPuLMi1M80")
+bot = telebot.TeleBot("YOUR_TELEGRAM_BOT_TOKEN")
 
 
 @bot.message_handler(content_types=['text'])
