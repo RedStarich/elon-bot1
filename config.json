@@ -1,0 +1,19 @@
+{
+    "TOKEN": "6622570779:AAFB6LQY8-jOzfDpNAWMIcwL7PPuLMi1M80",
+    
+    "databaseConfig": {
+        "apiKey": "AIzaSyBZTObxV3tVbXFQ2J1Uh3_38HOMtWLPApE",
+        "authDomain": "rational-being-406704.firebaseapp.com",
+        "databaseURL": "https://rational-being-406704-default-rtdb.firebaseio.com/",
+        "projectId": "rational-being-406704",
+        "storageBucket": "rational-being-406704.appspot.com", 
+        "messagingSenderId": "181865443638",
+        "appId": "1:181865443638:web:60b43c64fe5c8cca938397",
+        "measurementId": "G-JGRHWJZ475"
+    },
+    
+    "adminChat": "",
+    "admins": [""],
+
+    "GMT": 21600000
+}

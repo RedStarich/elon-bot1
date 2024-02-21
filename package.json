@@ -1,0 +1,22 @@
+{
+  "name": "elon_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.10.0",
+    "firebase-admin": "^12.0.0",
+    "node-telegram-bot-api": "^0.64.0",
+    "nodemon": "^3.0.3"
+  },
+  "devDependencies": {
+    "firebase-tools": "^13.3.0",
+    "jest": "^29.7.0"
+  }
+}

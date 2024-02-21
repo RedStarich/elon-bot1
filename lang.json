@@ -1,0 +1,66 @@
+{
+    "menus": {
+        "mainMenu": {
+            "lessons": "Lessons List",
+            "dictionary": "Glossary",
+            "options": "Settings",
+            "information": "Information"
+        },
+
+        "lessonsMenu": {
+            "0": "0. Introduction to Startups",
+            "1": "1. Motivation for Entrepreneurship",
+            "2": "2. MCI",
+            "3": "3. Team",
+            "4": "4. TA/TP",
+            "5": "5. Customer Development",
+            "6": "6. Direct Competitors and Substitute Products",
+            "7": "7. MVP",
+            "8": "8. Slides for Presentation",
+            "9": "9. Business Model Canvas",
+            "10": "10. Product Unit Economics and Metrics",
+            "11": "11. Finance and Pricing",
+            "12": "12. Marketing. First Sales. PR",
+            "13": "13. Customer Validation",
+            "14": "14. Venture Investments",
+            "15": "15. Pitching"
+        }
+    },
+
+    "timeToCourse": {
+        "week_15": "15 weeks with one lesson per week",
+        "week_5": "5 weeks with three lessons per week",
+        "day_15": "15 days with one lesson per day"
+    },
+
+    "MSGs": {
+        "msgZaSkolkoProiti": "How long would you like to take the startup course?",
+        "forContinueUseTelephone": "To continue working with the bot, use the specified phone number",
+        "successAutorization": "You have been successfully registered for the startup courses",
+        "welcomeToMainMenu": "Welcome to the main menu",
+        "notAutorized": "Authorize to work with the bot\n/start",
+        "msgFindTextSite": "Follow the link to find all lessons and materials where the word you are looking for appears\n",
+        "notCheat": "Oh, you cheater! Don't even try to deceive me"
+    },
+
+    "buttons": {
+        "enterPhoneNumber": "Use my phone number",
+        "goToMainMenu": "Back to menu"
+    },
+
+    "callBack": {
+        "goToMenuCallback": "Back to menu",
+        "goToBeginList": "To the beginning",
+        "goToEndList": "To the end",
+        "previousSlide": "<<<",
+        "nextSlide": ">>>",
+        "passTest": "Take the test",
+        "glossary": "Glossary"
+    },
+
+    "lessons": {
+        "0": {
+            "start": "Homework0. Take lesson № 0/15\nYou need to watch the video lecture, scroll through the presentation slides, take notes, and take the test\nstartup-course.com/0"
+        }
+    }
+}
